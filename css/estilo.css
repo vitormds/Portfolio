@@ -1,0 +1,151 @@
+﻿*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Merriweather', serif;
+}
+
+
+/* imagens */
+.box1{
+	background-image: url(../imagens/aa.png);
+
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	width:100%;
+	height:750px;
+	padding-top: 180px;
+	color: black;
+}
+
+
+.logo2{
+	width: 220px;
+	height:220px; 
+	border-radius: 50%;
+	overflow: hidden;
+	
+}
+b{
+	color: mediumturquoise;
+}
+
+
+.menu{
+	
+	padding-top: 20px;
+
+}
+
+#meio{
+	padding-top: 240px;
+	font-size: 60px;
+	color: #F4F4F4;
+}
+
+/*LOGO*/
+
+#logo{
+	height: 70px;
+	width: 90px;
+}
+
+
+/* Configuração das imagens*/
+img{
+	width: 100%;	
+}
+
+/* Configuração das imagens*/
+
+/*SOBRE*/
+
+
+
+.cor{
+	background-color: #00bdbd;
+}
+
+.h1s{
+	color:  #F4F4F4;
+	text-align: center;
+}
+
+#h3s{
+	color: #F4F4F4;
+}
+
+
+.habilidades{
+	margin-left: 16px;
+	color: #F4F4F4;
+}
+
+.texto1{
+	color: #F4F4F4;
+	padding: 10px 15px;
+
+
+}
+
+
+
+/*Barra de rolagem modificada*/
+
+::-webkit-scrollbar-track {
+	background-color: black;
+}
+::-webkit-scrollbar {
+	width: 6px;
+	
+}
+::-webkit-scrollbar-thumb {
+	background: white;
+}
+
+/*Barra de rolagem modificada*/
+
+
+
+
+/* Portfólio*/
+
+.h2s{
+	text-align: center;
+}
+
+
+/* Portfólio*/
+
+
+/*RODA PÉ*/
+
+.cor2{
+	background-color: #36383a;
+}
+
+.h4s{
+	text-align: center;
+	color: white;
+}
+
+.cores{
+	color: white;
+	padding: 10px 15px;
+}
+
+.logorodape{
+	width: 220px;
+	height: 110px;
+
+}
+
+
+#icones{
+	width: 16px;
+	height: 16px;
+	margin-bottom: 3px;
+}
+
+
+/*RODA PÉ*/
